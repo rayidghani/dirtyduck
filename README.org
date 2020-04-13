@@ -7,7 +7,7 @@
 
 
 
-* THIS REPOSITORY HAS BEEN ARXIVED. DIRTYDUCK NOW IS PART OF TRIAGE. PLEASE GO TO [[https://github.com/dssg/triage][HERE]] TO CONTINUE WITH THE SOURCE CODE OR [[https://dssg.github.io/triage/dirtyduck/docs/][HERE]] TO CONTINUE WITH THE TUTORIAL
+* THIS REPOSITORY HAS BEEN ARXIVED. DIRTYDUCK NOW IS PART OF TRIAGE. PLEASE GO TO [[https://github.com/dssg/triage][HERE]] TO CONTINUE WITH THE SOURCE CODE OR [[https://dssg.github.io/triage/dirtyduck/][HERE]] TO CONTINUE WITH THE TUTORIAL
 
 
 
